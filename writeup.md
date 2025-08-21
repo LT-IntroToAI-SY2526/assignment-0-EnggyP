@@ -1,7 +1,7 @@
 # Assignment 0 Writeup
 
 **Name:** Enggy Puma  
-**Date:** 08/20/2025
+**Date:** 08/19/2025
 
 ---
 
@@ -14,19 +14,19 @@ Git is the distributed control system that is used for coding, keeping track of 
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-Committing are the changes being made in the project by the individual as a way in saving it for later and keeping it locally for only those who have access to it.  
-Pushing is being fully finished with the project and publishing for the public to see. 
-These steps are important because 
+Committing and Pushing are the changes being made in the project by the individual as a way of saving it for later and keeping it locally for only those who have access to it. It is also used to publish the project for the public to see, once it is fully finished. These steps are important because they are to meant to save any changes that have been made on a project so that there is a record of the edits and have the ability to go back to it on where it was left off as. 
 
 **3. What is a repository and what does it contain?**
 
-A repository is a "project folder", which I see it as a way to keep track of assignments or projects that I've worked on independently or with group members. It contains all of my project's files and revision history.  
+A repository is like a "project folder", which I see it as a way to keep track of assignments or projects that I've worked on independently or with my group members. It contains all of my project's files, codes, and revision history.  
+
 ---
 
 ## Profile Repository Link
 
 **Link to your GitHub profile repository:** 
 
+https://github.com/EnggyP/EnggyP/blob/main/README.md
 
 ---
 
@@ -34,7 +34,7 @@ A repository is a "project folder", which I see it as a way to keep track of ass
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[Your answer here - feel free to write a paragraph or more!]
+I'm excited to learn more about how AI is created because 
 
 ---
 
