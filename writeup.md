@@ -14,7 +14,7 @@ Git is the distributed control system that is used for coding, keeping track of 
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-Committing means saving the changes that the individual has made on a project, keeping it locally for only those who have access to it, in which they can also write a message to remind themselves on what they need to finish or what is in progress. Pushing means sharing the changes with other people online on GitHub so they can see the work. These steps are important because they help keep a record of the progess in the projects and save our work carefully without having the risk to restart.
+Committing and pushing means saving the changes that the individual has made on a project, keeping it locally for only those who have access to it, in which they can also write a message to remind themselves on what they need to finish or what is in progress. It also means sharing the changes with other people online on GitHub so they can see the work. These steps are important because they help keep a record of the progess in the projects and save our work carefully without having the risk to restart.
 
 **3. What is a repository and what does it contain?**
 
