@@ -34,7 +34,8 @@ https://github.com/EnggyP/EnggyP/blob/main/README.md
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-I'm excited to learn more about how chatbots are created because I'm interested in machines having the ability to understand the instructions you've given it and communicate with you like a human being would. Especially since in this modern era, there is so many chatbots for online stores, or even google itself that are created to assist the individual in a faster way, without having them to search for the answer. It amazes me how it only takes a few seconds for a chatbot to process and answer your question or help you with a task. Lastly, I want to learn it to figure out how technology is evolving quickly and becoming part of our daily lives.   
+I'm excited to learn more about how chatbots are created because I'm interested in computers having the ability to understand the instructions you've given it and communicate with you like a human being would. Especially since in this modern era, there is so many chatbots for online stores, social apps like snapchat, or even google itself that are created to assist the individual in a faster way, without having them to search for the answer. It amazes me how it only takes a few seconds for a chatbot to process and answer your question or help you with a task. Lastly, I want to learn it to figure out how technology is evolving quickly and becoming part of our daily lives.   
+
 ---
 
 *Remember: This writeup will be graded based on the quality of your explanations and reflections, not just whether you got the "right" answer. Show your thinking!*
